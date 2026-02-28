@@ -111,7 +111,5 @@ This project strengthened my understanding of:
 - Year-over-year trend analysis using LAG()
 - Ranking and rolling calculations with window functions
 - Measuring both volume and intensity of business events
-
-Recognising and documenting dataset limitations
-
-Translating SQL output into business insight
+- Recognising and documenting dataset limitations
+- Translating SQL output into business insight
